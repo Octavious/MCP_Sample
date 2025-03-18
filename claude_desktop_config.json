@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "quranserver": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "M:\\ArabAI_Demos\\MCPDemo2",
+                "run",
+                "server.py"
+            ]
+        }
+    }
+}
