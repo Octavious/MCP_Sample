@@ -5,8 +5,8 @@ based on https://www.youtube.com/watch?v=0C6aXoqzm5s
 has the MCP server which searches sqlite quran.db for the search word
 ```
 # Create a new directory for our project
-uv init weather
-cd weather
+uv init MCPDemo2
+cd MCPDemo2
 
 # Create virtual environment and activate it
 uv venv
